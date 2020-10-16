@@ -1,4 +1,6 @@
-###  2020.10.06 
+#### 新增支持2个账号，
+感谢[https://github.com/502647092/jd_sign_bot][https://github.com/502647092/jd_sign_bot]
+
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/ruicky/ruicky.github.io/2020/06/05/jd-sign/0.png">
 </p>
