@@ -1,4 +1,4 @@
-#### 新增支持2个账号，
+#### 新增支持2个账号，666
 感谢[https://github.com/502647092/jd_sign_bot]https://github.com/502647092/jd_sign_bot
 
 <p align="center">
