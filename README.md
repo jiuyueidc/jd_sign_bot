@@ -1,4 +1,4 @@
-#### 新增支持2个账号.，my.me11.16
+2020年12月6日21:18:35
 感谢[https://github.com/502647092/jd_sign_bot]https://github.com/502647092/jd_sign_bot
 
 <p align="center">
